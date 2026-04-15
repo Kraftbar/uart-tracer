@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.codex
+esp8266.log
+With_issues.txt
+Without_issues.txt
+scan.gnmap
+scan.nmap
+scan.xml
